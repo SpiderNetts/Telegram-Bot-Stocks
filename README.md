@@ -36,7 +36,7 @@ Download from [python.org](https://www.python.org/) — during install, check th
 **Step 2 — Clone the repo**
 
 ```
-git clone https://github.com/YOUR-USERNAME/stock-tracker-bot
+git clone https://github.com/SpiderNetts/stock-tracker-bot
 cd stock-tracker-bot
 ```
 
